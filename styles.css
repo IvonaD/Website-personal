@@ -1,0 +1,124 @@
+body {
+  background-color: #F8E5DF;
+  margin: 0;
+  text-align: center;
+  padding-top: 100px;
+}
+
+h1 {
+  font-family: Sacramento, cursive;
+  font-size: 58px;
+  font-weight: bolder;
+  font-style: italic;
+  position: absolute;
+  top: 16px;
+  width: 60%;
+  margin-top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 4% auto 5% auto;
+  text-align: center;
+}
+.intro {
+  width: 50%;
+  margin: auto;
+}
+.bottom-container {
+  background-color: #F2C8B5;
+  padding: 50px 0 20px;
+}
+p {
+  line-height: 1.5;
+}
+h3 {
+  font-family: Old Standard TT, serif;
+  font-size: 26px;
+  position:absolute;
+  left: 880px;
+  bottom: 330px;
+}
+h2 {
+  font-family: Old Standard TT, serif;
+  font-size: 28px;
+  font-weight: bolder;
+}
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width:20%;
+  margin: 80px auto;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 128px;
+  bottom: 250px;
+}
+.top-cloud {
+  position:absolute;
+  top: 15px;
+  left: 850px;
+}
+.profile-pic {
+  border-radius: 50%;
+  position: relative;
+  width: 210px;
+  height: auto;
+}
+.profile-pic:hover {
+  width: 300px;
+}
+a {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+}
+a:hover{
+  font-size: 20px;
+}
+.table-2 {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+  position: relative;
+  left: 420px;
+}
+p {
+  font-family: Old Standard TT, serif;
+  font-size: 17px;
+}
+table {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+  position: relative;
+  left: 420px;
+}
+.contact-me {
+  font-size: 28px;
+}
+.btn {
+  background: #F2C8B5;
+  background-image: -webkit-linear-gradient(top, #F2C8B5, #f5ae90);
+  background-image: -moz-linear-gradient(top, #F2C8B5, #f5ae90);
+  background-image: -ms-linear-gradient(top, #F2C8B5, #f5ae90);
+  background-image: -o-linear-gradient(top, #F2C8B5, #f5ae90);
+  background-image: linear-gradient(to bottom, #F2C8B5, #f5ae90);
+  -webkit-border-radius: 17;
+  -moz-border-radius: 18;
+  border-radius: 10px;
+  font-family: Old Standard TT, serif;
+  color: #ffff;
+  font-size: 18px;
+  font-weight: bolder;
+  padding: 8px 15px 11px 16px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f5d8cc;
+  background-image: -webkit-linear-gradient(top, #f5d8cc, #facebb);
+  background-image: -moz-linear-gradient(top, #f5d8cc, #facebb);
+  background-image: -ms-linear-gradient(top, #f5d8cc, #facebb);
+  background-image: -o-linear-gradient(top, #f5d8cc, #facebb);
+  background-image: linear-gradient(to bottom, #f5d8cc, #facebb);
+  text-decoration: none;
+}
